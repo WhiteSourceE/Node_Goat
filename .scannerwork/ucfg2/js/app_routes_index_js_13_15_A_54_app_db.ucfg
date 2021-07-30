@@ -1,0 +1,982 @@
+
+%app_routes_index_js_13_15_A_54_app_db=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js ("s2_1*’Z
+s2_1
+<synthetic> (K
+I
+
+__unknown_file (
+
+%sc-P_10_0"__id**
+
+%env"
+%scope-P_10^\
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js (1
+	%object_0Object"ObjectQ
+O
+
+__unknown_file (	
+%expr_0"__id*"* 
+
+
+%sc-P_10_0"
+SessionHandler›"˜
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js (1
+
+%methRes_0* 
+
+
+%sc-P_10_0"
+SessionHandler2
+
+	%object_0Object2
+
+%env2
+
+dbP
+N
+
+__unknown_file (
+%fieldAccess_0"__id**
+	
+%expr_0"
+	prototype^
+\
+
+__unknown_file (	
+%void_0"
+__setProto*
+
+	%object_0Object*
+
+%fieldAccess_0p
+n
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js
+ (
+sessionHandler"__id*
+
+	%object_0ObjectK
+I
+
+__unknown_file (
+
+%sc-P_10_1"__id**
+
+%env"
+%scope-P_10^\
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js (1
+	%object_1Object"ObjectQ
+O
+
+__unknown_file (	
+%expr_1"__id*"* 
+
+
+%sc-P_10_1"
+ProfileHandler›"˜
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js (1
+
+%methRes_1* 
+
+
+%sc-P_10_1"
+ProfileHandler2
+
+	%object_1Object2
+
+%env2
+
+dbP
+N
+
+__unknown_file (
+%fieldAccess_1"__id**
+	
+%expr_1"
+	prototype^
+\
+
+__unknown_file (	
+%void_1"
+__setProto*
+
+	%object_1Object*
+
+%fieldAccess_1p
+n
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js
+ (
+profileHandler"__id*
+
+	%object_1ObjectK
+I
+
+__unknown_file (
+
+%sc-P_10_2"__id**
+
+%env"
+%scope-P_10^\
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js (3
+	%object_2Object"ObjectR
+P
+
+__unknown_file (	
+%expr_2"__id*#*!
+
+
+%sc-P_10_2"
+BenefitsHandlerœ"™
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js (3
+
+%methRes_2*!
+
+
+%sc-P_10_2"
+BenefitsHandler2
+
+	%object_2Object2
+
+%env2
+
+dbP
+N
+
+__unknown_file (
+%fieldAccess_2"__id**
+	
+%expr_2"
+	prototype^
+\
+
+__unknown_file (	
+%void_2"
+__setProto*
+
+	%object_2Object*
+
+%fieldAccess_2q
+o
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js
+ (
+benefitsHandler"__id*
+
+	%object_2ObjectK
+I
+
+__unknown_file (
+
+%sc-P_10_3"__id**
+
+%env"
+%scope-P_10^\
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js! (=
+	%object_3Object"ObjectW
+U
+
+__unknown_file (	
+%expr_3"__id*(*&
+
+
+%sc-P_10_3"
+ContributionsHandler¡"ž
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js! (=
+
+%methRes_3*&
+
+
+%sc-P_10_3"
+ContributionsHandler2
+
+	%object_3Object2
+
+%env2
+
+dbP
+N
+
+__unknown_file (
+%fieldAccess_3"__id**
+	
+%expr_3"
+	prototype^
+\
+
+__unknown_file (	
+%void_3"
+__setProto*
+
+	%object_3Object*
+
+%fieldAccess_3v
+t
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js
+ (
+contributionsHandler"__id*
+
+	%object_3ObjectK
+I
+
+__unknown_file (
+
+%sc-P_10_4"__id**
+
+%env"
+%scope-P_10^\
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js (9
+	%object_4Object"ObjectU
+S
+
+__unknown_file (	
+%expr_4"__id*&*$
+
+
+%sc-P_10_4"
+AllocationsHandlerŸ"œ
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js (9
+
+%methRes_4*$
+
+
+%sc-P_10_4"
+AllocationsHandler2
+
+	%object_4Object2
+
+%env2
+
+dbP
+N
+
+__unknown_file (
+%fieldAccess_4"__id**
+	
+%expr_4"
+	prototype^
+\
+
+__unknown_file (	
+%void_4"
+__setProto*
+
+	%object_4Object*
+
+%fieldAccess_4t
+r
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js
+ (
+allocationsHandler"__id*
+
+	%object_4ObjectK
+I
+
+__unknown_file (
+
+%sc-P_10_5"__id**
+
+%env"
+%scope-P_10^\
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js (-
+	%object_5Object"ObjectO
+M
+
+__unknown_file (	
+%expr_5"__id* *
+
+
+%sc-P_10_5"
+MemosHandler™"–
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js (-
+
+%methRes_5*
+
+
+%sc-P_10_5"
+MemosHandler2
+
+	%object_5Object2
+
+%env2
+
+dbP
+N
+
+__unknown_file (
+%fieldAccess_5"__id**
+	
+%expr_5"
+	prototype^
+\
+
+__unknown_file (	
+%void_5"
+__setProto*
+
+	%object_5Object*
+
+%fieldAccess_5n
+l
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js
+ (
+memosHandler"__id*
+
+	%object_5ObjectK
+I
+
+__unknown_file (
+
+%sc-P_10_6"__id**
+
+%env"
+%scope-P_10^\
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js (3
+	%object_6Object"ObjectR
+P
+
+__unknown_file (	
+%expr_6"__id*#*!
+
+
+%sc-P_10_6"
+ResearchHandlerœ"™
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js (3
+
+%methRes_6*!
+
+
+%sc-P_10_6"
+ResearchHandler2
+
+	%object_6Object2
+
+%env2
+
+dbP
+N
+
+__unknown_file (
+%fieldAccess_6"__id**
+	
+%expr_6"
+	prototype^
+\
+
+__unknown_file (	
+%void_6"
+__setProto*
+
+	%object_6Object*
+
+%fieldAccess_6q
+o
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js
+ (
+researchHandler"__id*
+
+	%object_6Object„
+
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js
+ (
+
+isLoggedIn"__id*,**
+
+sessionHandler"
+isLoggedInMiddleware
+
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js
+ (	
+isAdmin"__id*-*+
+
+sessionHandler"
+isAdminUserMiddleware?
+=
+
+__unknown_file (	
+%expr_7"__id**
+
+app"
+get¦"£
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js   (
+
+%methRes_7*
+
+app"
+get2
+
+app2
+
+%env2
+/2**(
+
+sessionHandler"
+displayWelcomePage?
+=
+
+__unknown_file (	
+%expr_8"__id**
+
+app"
+get©"¦
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js# #(
+
+%methRes_8*
+
+app"
+get2
+
+app2
+
+%env2
+
+/login2(*&
+
+sessionHandler"
+displayLoginPage@
+>
+
+__unknown_file (	
+%expr_9"__id**
+
+app"
+post¬"©
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js$ $(
+
+%methRes_9*
+
+app"
+post2
+
+app2
+
+%env2
+
+/login2**(
+
+sessionHandler"
+handleLoginRequest@
+>
+
+__unknown_file (
+
+%expr_10"__id**
+
+app"
+get¬"©
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js' '(
+%methRes_10*
+
+app"
+get2
+
+app2
+
+%env2	
+/signup2)*'
+
+sessionHandler"
+displaySignupPageA
+?
+
+__unknown_file (
+
+%expr_11"__id**
+
+app"
+post¨"¥
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js( ((
+%methRes_11*
+
+app"
+post2
+
+app2
+
+%env2	
+/signup2$*"
+
+sessionHandler"
+handleSignup@
+>
+
+__unknown_file (
+
+%expr_12"__id**
+
+app"
+get¬"©
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js+ +(
+%methRes_12*
+
+app"
+get2
+
+app2
+
+%env2	
+/logout2)*'
+
+sessionHandler"
+displayLogoutPage@
+>
+
+__unknown_file (
+
+%expr_13"__id**
+
+app"
+getÀ"½
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js. .(
+%methRes_13*
+
+app"
+get2
+
+app2
+
+%env2
+
+/dashboard2
+
+
+isLoggedIn2**(
+
+sessionHandler"
+displayWelcomePage@
+>
+
+__unknown_file (
+
+%expr_14"__id**
+
+app"
+getº"·
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js1 1(
+%methRes_14*
+
+app"
+get2
+
+app2
+
+%env2
+
+/profile2
+
+
+isLoggedIn2&*$
+
+profileHandler"
+displayProfileA
+?
+
+__unknown_file (
+
+%expr_15"__id**
+
+app"
+postÀ"½
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js2 2(
+%methRes_15*
+
+app"
+post2
+
+app2
+
+%env2
+
+/profile2
+
+
+isLoggedIn2+*)
+
+profileHandler"
+handleProfileUpdate@
+>
+
+__unknown_file (
+
+%expr_16"__id**
+
+app"
+getÌ"É
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js5 5(
+%methRes_16*
+
+app"
+get2
+
+app2
+
+%env2
+/contributions2
+
+
+isLoggedIn22*0
+
+contributionsHandler"
+displayContributionsA
+?
+
+__unknown_file (
+
+%expr_17"__id**
+
+app"
+postÒ"Ï
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js6 6(
+%methRes_17*
+
+app"
+post2
+
+app2
+
+%env2
+/contributions2
+
+
+isLoggedIn27*5
+
+contributionsHandler"
+handleContributionsUpdate@
+>
+
+__unknown_file (
+
+%expr_18"__id**
+
+app"
+get½"º
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js9 9(
+%methRes_18*
+
+app"
+get2
+
+app2
+
+%env2
+	/benefits2
+
+
+isLoggedIn2(*&
+
+benefitsHandler"
+displayBenefitsA
+?
+
+__unknown_file (
+
+%expr_19"__id**
+
+app"
+post½"º
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js: :(
+%methRes_19*
+
+app"
+post2
+
+app2
+
+%env2
+	/benefits2
+
+
+isLoggedIn2'*%
+
+benefitsHandler"
+updateBenefits@
+>
+
+__unknown_file (
+
+%expr_20"__id**
+
+app"
+getÎ"Ë
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.jsA A(
+%methRes_20*
+
+app"
+get2
+
+app2
+
+%env2
+/allocations/:userId2
+
+
+isLoggedIn2.*,
+
+allocationsHandler"
+displayAllocations@
+>
+
+__unknown_file (
+
+%expr_21"__id**
+
+app"
+get´"±
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.jsD D(
+%methRes_21*
+
+app"
+get2
+
+app2
+
+%env2
+
+/memos2
+
+
+isLoggedIn2"* 
+
+memosHandler"
+displayMemosA
+?
+
+__unknown_file (
+
+%expr_22"__id**
+
+app"
+post±"®
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.jsE E(
+%methRes_22*
+
+app"
+post2
+
+app2
+
+%env2
+
+/memos2
+
+
+isLoggedIn2*
+
+memosHandler"
+
+addMemosf
+d
+
+__unknown_file (	
+%func_0"__declareFunction**(
+&app_routes_index_js_72_35_A_55_req_resfd
+
+__unknown_file (/
+%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_7"
+__setProto*
+	
+%func_0*1
+/
+%functionPrototype_0%SonarFunctionPrototype@
+>
+
+__unknown_file (
+
+%expr_23"__id**
+
+app"
+get"š
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.jsH H(
+%methRes_23*
+
+app"
+get2
+
+app2
+
+%env2
+
+/learn2
+
+
+isLoggedIn2
+	
+%func_0f
+d
+
+__unknown_file (	
+%func_1"__declareFunction**(
+&app_routes_index_js_78_26_A_56_req_resfd
+
+__unknown_file (/
+%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_8"
+__setProto*
+	
+%func_1*1
+/
+%functionPrototype_1%SonarFunctionPrototype@
+>
+
+__unknown_file (
+
+%expr_24"__id**
+
+app"
+get"
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.jsN N(
+%methRes_24*
+
+app"
+get2
+
+app2
+
+%env2
+	/tutorial2
+	
+%func_1f
+d
+
+__unknown_file (	
+%func_2"__declareFunction**(
+&app_routes_index_js_84_32_A_57_req_resfd
+
+__unknown_file (/
+%functionPrototype_2%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_9"
+__setProto*
+	
+%func_2*1
+/
+%functionPrototype_2%SonarFunctionPrototype@
+>
+
+__unknown_file (
+
+%expr_25"__id**
+
+app"
+get–"“
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.jsT T(
+%methRes_25*
+
+app"
+get2
+
+app2
+
+%env2
+/tutorial/:page2
+	
+%func_2@
+>
+
+__unknown_file (
+
+%expr_26"__id**
+
+app"
+get½"º
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.js^ ^(
+%methRes_26*
+
+app"
+get2
+
+app2
+
+%env2
+	/research2
+
+
+isLoggedIn2(*&
+
+researchHandler"
+displayResearchK
+I
+
+__unknown_file (
+
+%sc-P_10_7"__id**
+
+%env"
+%scope-P_10@
+>
+
+__unknown_file (
+
+%expr_27"__id**
+
+app"
+use–"“
+=
+3/home/denis-py/Desktop/NodeGoat/app/routes/index.jsa a(
+%methRes_27*
+
+app"
+use2
+
+app2
+
+%env2 *
+
+
+%sc-P_10_7"
+ErrorHandler"
+
+__unknown_file ( :
+%env:
+app:
+dbB 

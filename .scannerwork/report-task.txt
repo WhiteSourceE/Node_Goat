@@ -1,0 +1,7 @@
+organization=aharon02
+projectKey=NodeGoat1
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.22173
+dashboardUrl=https://sonarcloud.io/dashboard?id=NodeGoat1
+ceTaskId=AXry7z9Wp3IxoAh7kAt-
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXry7z9Wp3IxoAh7kAt-
